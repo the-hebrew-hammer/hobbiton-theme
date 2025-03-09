@@ -6,7 +6,7 @@ This project is intended for personal use. If you like it, feel free to fork or 
 
 ## Under Costruction
 
-the supported programs below are the programs that this set of themes that I intend to finish first. The themes are still under construction, I do not have a timeline on when they will be finished.
+The supported programs below are the programs that I intend to support first. After they are finished, future additions will be worked on ad added to the list. The themes are still under construction, I do not have a timeline on when they will be finished.
 
 ## Supported Programs
 
